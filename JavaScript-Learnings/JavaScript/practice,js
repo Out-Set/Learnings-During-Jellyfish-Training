@@ -1,0 +1,4 @@
+fun();
+const fun = function(){
+    console.log('hello')
+}kkh

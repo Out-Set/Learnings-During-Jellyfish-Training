@@ -1,0 +1,21 @@
+.body{
+    text-align: center;
+    
+    border-color: black;
+    border-style: inset;
+    border-width: 1px;
+}
+
+.container{
+    text-align: center;
+    border-color: black;
+
+}
+
+.box{
+    text-align: center;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+
+}
